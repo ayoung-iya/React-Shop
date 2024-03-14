@@ -25,7 +25,8 @@
     "recoil": "^0.7.7",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.0.4",
-    "vite": "^4.3.9"
+    "vite": "^4.3.9",
+    "vite-plugin-svgr": "^4.2.0"
   },
   "dependencies": {
     "@vercel/node": "^2.15.10"
