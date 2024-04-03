@@ -15,6 +15,8 @@ export const MENUS = {
   DIGITAL: "디지털",
 } as const;
 
+export const CATEGORIES = ["FASHION", "ACCESSORY", "DIGITAL"];
+
 export const CART_ITEM = "CART_ITEM";
 
 type categoryType = (typeof Category)[keyof typeof Category];
